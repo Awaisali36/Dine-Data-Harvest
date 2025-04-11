@@ -1,0 +1,79 @@
+{
+ "Review0": {
+  "Content": "*our server was very attentive, informative and pleasant, overall great service and was happy with our experience. $Food is amazing as always and *props to the chefs and service staff",
+  "Food": "Food is amazing as always and ",
+  "Staff": "our server was very attentive, informative and pleasant, overall great service and was happy with our experience. props to the chefs and service staff",
+  "Name": "Mila",
+  "Date": "ays ago",
+  "Overall_Rating": 5,
+  "Food_Rating": 5,
+  "Service_Rating": 5,
+  "Ambience_Rating": 5
+ },
+ "Review1": {
+  "Content": "*Fantastic service and $food. $Great dinner, ",
+  "Food": "food. Great dinner, ",
+  "Staff": "Fantastic service and ",
+  "Name": "Jena",
+  "Date": "45626",
+  "Overall_Rating": 5,
+  "Food_Rating": 5,
+  "Service_Rating": 5,
+  "Ambience_Rating": 4
+ },
+ "Review2": {
+  "Content": "$The food was good, *Our server was excellent.",
+  "Food": "The food was good, ",
+  "Staff": "Our server was excellent.",
+  "Name": "Claire",
+  "Date": "45626",
+  "Overall_Rating": 4,
+  "Food_Rating": 3,
+  "Service_Rating": 5,
+  "Ambience_Rating": 5
+ },
+ "Review3": {
+  "Content": "$drinks and *service were great, $food was good to average but so not worth the price vs. what you can get elsewhere. ",
+  "Food": "drinks and food was good to average but so not worth the price vs. what you can get elsewhere. ",
+  "Staff": "service were great, ",
+  "Name": "Chris",
+  "Date": "45624",
+  "Overall_Rating": 3,
+  "Food_Rating": 3,
+  "Service_Rating": 4,
+  "Ambience_Rating": 3
+ },
+ "Review4": {
+  "Content": "$Carmines! $Always delicious and *wonderful waitstaff!!!!",
+  "Food": "Carmines! Always delicious and ",
+  "Staff": "wonderful waitstaff!!!!",
+  "Name": "Debra",
+  "Date": "45622",
+  "Overall_Rating": 5,
+  "Food_Rating": 5,
+  "Service_Rating": 5,
+  "Ambience_Rating": 5
+ },
+ "Review5": {
+  "Content": "*ALEX was incredible! He was very cordial, professional, debonair, knowledgeable, helpful, and truly caring about our experience!",
+  "Food": "",
+  "Staff": "ALEX was incredible! He was very cordial, professional, debonair, knowledgeable, helpful, and truly caring about our experience!",
+  "Name": "Sam",
+  "Date": "45619",
+  "Overall_Rating": 4,
+  "Food_Rating": 5,
+  "Service_Rating": 5,
+  "Ambience_Rating": 3
+ },
+ "Review6": {
+  "Content": "$Amazing as always!!! *Sat in the bar tonight and had great service!",
+  "Food": "Amazing as always!!! ",
+  "Staff": "Sat in the bar tonight and had great service!",
+  "Name": "Emmy",
+  "Date": "45617",
+  "Overall_Rating": 5,
+  "Food_Rating": 5,
+  "Service_Rating": 5,
+  "Ambience_Rating": 5
+ }
+}
